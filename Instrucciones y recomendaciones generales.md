@@ -42,10 +42,10 @@ Se exhorta a los participantes a utilizar las credenciales (cuentas) proporciona
    ```
    https://arki1.qwiklabs.com/
    ```
-2. En la parte superior derecha dar click en el botón "**Unirse**"
+2. En la parte superior derecha dar clic en el botón "**Unirse**"
 
    ![STP1](https://i.ibb.co/rp3Yjth/Screenshot-2024-10-08-131800.png)
-3. Crear una cuenta, ya sea utilizando google o llenando el formulario.
+3. Crear una cuenta, ya sea utilizando Google o llenando el formulario.
 
    ![STP2](https://i.ibb.co/v4xQnRz/Screenshot-2024-10-08-133442.pngassets/STP2.pn)
 4. Al terminar el registro, irse a la parte superior derecha en "**Página principal**" o dar clic [acá]("https://gcptrainerprep.qwiklabs.com/?locale=eshttps:")
@@ -54,7 +54,7 @@ Se exhorta a los participantes a utilizar las credenciales (cuentas) proporciona
    ![STP5](https://i.ibb.co/BNpqZKj/STP5.png)
 6. En caso de no tener el curso asignado, dar clic en "**Mi cuenta**" en la parte superior derecha -Donde aparece la imagen- y compartir con el instructor el email con el que se busca tener acceso.
 
-   Para entrenamientos corporativos como Google ATP suele ser un correo empresarial
+   Para entrenamientos corporativos como Google Cloud ATP suele ser un correo empresarial
 
    ![STP6](https://i.ibb.co/xFXjcWg/STP6.png)
 
